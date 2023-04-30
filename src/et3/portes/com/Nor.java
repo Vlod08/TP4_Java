@@ -1,4 +1,6 @@
-public class Nor extends Porte{
+package et3.portes.com;
+
+public class Nor extends Porte {
     public Nor(){
         super();
     }

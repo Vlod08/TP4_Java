@@ -1,4 +1,6 @@
-public class Nand extends Porte{
+package et3.portes.com;
+
+public class Nand extends Porte {
 
     public Nand(){
         super();
